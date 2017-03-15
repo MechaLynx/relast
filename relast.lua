@@ -33,7 +33,7 @@ function descriptor()
 		title = "Repeat last item in playlist",
 		version = "0.1.0",
 		author = "MechaLynx",
-		url = '',
+		url = 'https://github.com/MechaLynx/relast',
 		shortdesc = "relast";
 		capabilities = { "meta-listener" }
 	}
